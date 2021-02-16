@@ -1,11 +1,47 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    " balance " : " 3.946,45 $ " ,
+    " imagen " : " http://placehold.it/32x32 " ,
+    " edad " : 23 ,
+    " name " : " Bird Ramsey " ,
+    " género " : " masculino " ,
+    " empresa " : " NIMON " ,
+    " correo electrónico " : " birdramsey@nimon.com "
+  },
+  {
+    " saldo " : " $ 2,499.49 " ,
+    " imagen " : " http://placehold.it/32x32 " ,
+    " edad " : 31 ,
+    " nombre " : " Lillian Burgess " ,
+    " género " : " mujer " ,
+    " empresa " : " LUXURIA " ,
+    " correo electrónico " : " lillianburgess@luxuria.com "
+  },
+  {
+    " saldo " : " $ 2,820.18 " ,
+    " imagen " : " http://placehold.it/32x32 " ,
+    " edad " : 34 ,
+    " nombre " : " Kristie Cole " ,
+    " género " : " mujer " ,
+    " empresa " : " QUADEEBO " ,
+    " correo electrónico " : " kristiecole@quadeebo.com "
+  },
+  {
+    " balance " : " $ 3277,32 " ,
+    " imagen " : " http://placehold.it/32x32 " ,
+    " edad " : 30 ,
+    " nombre " : " Leonor Cross " ,
+    " género " : " mujer " ,
+    " empresa " : " GRONK " ,
+    " correo electrónico " : " leonorcross@gronk.com "
+  },
+  {
+    " balance " : " $ 1.972,47 " ,
+    " imagen " : " http://placehold.it/32x32 " ,
+    " edad " : 28 ,
+    " nombre " : " Marsh Mccall " ,
+    " género " : " masculino " ,
+    " empresa " : " ULTRIMAX " ,
+    " correo electrónico " : " marshmccall@ultrimax.com "
   }
-}
+]
