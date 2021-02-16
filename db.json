@@ -1,23 +1,8 @@
-{ "id" : 1 , "nombre" : "Leanne Graham" , "username" : "Bret" , "email" : "Sincere@april.biz" , "dirección" : { "calle" : "Kulas Light" , "suite" : "Apto. 556" , "ciudad" : "Gwenborough" , "código postal" : "92998-3874" , "geo" :{ "lat" : "-37.3159" , "lng" :
+{ "id" : 1 , "name" : "Leanne Graham" , "username" : "Bret" , "email" : "Sincere@april.biz" , "phone" : "1-770-736-8031 x56442" , "sitio web" : "hildegard.org"
    
    
    
    
    
-      
-      
-      
-      
-      
-         
-         "81.1496"
-       }
-    },
-"teléfono":"1-770-736-8031 x56442","sitio web":"hildegard.org","empresa":{ "nombre" : "Romaguera-Crona" , "catchPhrase" : "Red neuronal cliente-servidor multicapa" , "bs" : "aprovechar los mercados electrónicos en tiempo real" }   
-   
-   
-      
-      
-      
    
 }
