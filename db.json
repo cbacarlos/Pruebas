@@ -1,0 +1,210 @@
+﻿[
+  {
+    "ID": "1",
+    "Name": "Spider Man",
+    "Alignment": "Good",
+    "Gender": "Male",
+    "Hometown": "USA",
+    "Fighting_Skills": "4"
+  },
+  {
+    "ID": "2",
+    "Name": "Iron Man",
+    "Alignment": "Neutral",
+    "Gender": "Male",
+    "Hometown": "USA",
+    "Fighting_Skills": "4"
+  },
+  {
+    "ID": "3",
+    "Name": "Hulk",
+    "Alignment": "Neutral",
+    "Gender": "Male",
+    "Hometown": "USA",
+    "Fighting_Skills": "4"
+  },
+  {
+    "ID": "4",
+    "Name": "Wolverine",
+    "Alignment": "Good",
+    "Gender": "Male",
+    "Hometown": "Canada",
+    "Fighting_Skills": "7"
+  },
+  {
+    "ID": "5",
+    "Name": "Thor",
+    "Alignment": "Good",
+    "Gender": "Male",
+    "Hometown": "Norway",
+    "Fighting_Skills": "4"
+  },
+  {
+    "ID": "6",
+    "Name": "Green Goblin",
+    "Alignment": "Bad",
+    "Gender": "Male",
+    "Hometown": "USA",
+    "Fighting_Skills": "3"
+  },
+  {
+    "ID": "7",
+    "Name": "Magneto",
+    "Alignment": "Neutral",
+    "Gender": "Male",
+    "Hometown": "Germany",
+    "Fighting_Skills": "4"
+  },
+  {
+    "ID": "8",
+    "Name": "Thanos",
+    "Alignment": "Bad",
+    "Gender": "Male",
+    "Hometown": "Titan",
+    "Fighting_Skills": "4"
+  },
+  {
+    "ID": "9",
+    "Name": "Loki",
+    "Alignment": "Bad",
+    "Gender": "Male",
+    "Hometown": "Jotunheim",
+    "Fighting_Skills": "3"
+  },
+  {
+    "ID": "10",
+    "Name": "Doctor Doom",
+    "Alignment": "Bad",
+    "Gender": "Male",
+    "Hometown": "Latveria",
+    "Fighting_Skills": "4"
+  },
+  {
+    "ID": "11",
+    "Name": "Jean Greay",
+    "Alignment": "Good",
+    "Gender": "Female",
+    "Hometown": "USA",
+    "Fighting_Skills": "4"
+  },
+  {
+    "ID": "12",
+    "Name": "Rogue",
+    "Alignment": "Good",
+    "Gender": "Female",
+    "Hometown": "USA",
+    "Fighting_Skills": "7"
+  },
+  {
+    "ID": "13",
+    "Name": "Storm",
+    "Alignment": "Good",
+    "Gender": "Female",
+    "Hometown": "Kenya",
+    "Fighting_Skills": "4"
+  },
+  {
+    "ID": "14",
+    "Name": "Nightcrawler",
+    "Alignment": "Good",
+    "Gender": "Male",
+    "Hometown": "Germany",
+    "Fighting_Skills": "3"
+  },
+  {
+    "ID": "15",
+    "Name": "Gambit",
+    "Alignment": "Good",
+    "Gender": "Male",
+    "Hometown": "USA",
+    "Fighting_Skills": "4"
+  },
+  {
+    "ID": "16",
+    "Name": "Captain America",
+    "Alignment": "Good",
+    "Gender": "Male",
+    "Hometown": "USA",
+    "Fighting_Skills": "6"
+  },
+  {
+    "ID": "17",
+    "Name": "Cyclops",
+    "Alignment": "Good",
+    "Gender": "Male",
+    "Hometown": "USA",
+    "Fighting_Skills": "4"
+  },
+  {
+    "ID": "18",
+    "Name": "Emma Frost",
+    "Alignment": "Neutral",
+    "Gender": "Female",
+    "Hometown": "USA",
+    "Fighting_Skills": "3"
+  },
+  {
+    "ID": "19",
+    "Name": "Kitty Pryde",
+    "Alignment": "Good",
+    "Gender": "Female",
+    "Hometown": "USA",
+    "Fighting_Skills": "5"
+  },
+  {
+    "ID": "20",
+    "Name": "Daredevil",
+    "Alignment": "Good",
+    "Gender": "Male",
+    "Hometown": "USA",
+    "Fighting_Skills": "5"
+  },
+  {
+    "ID": "21",
+    "Name": "Punisher",
+    "Alignment": "Neutral",
+    "Gender": "Male",
+    "Hometown": "USA",
+    "Fighting_Skills": "6"
+  },
+  {
+    "ID": "22",
+    "Name": "Silver Surfer",
+    "Alignment": "Good",
+    "Gender": "Male",
+    "Hometown": "Zenn-La",
+    "Fighting_Skills": "2"
+  },
+  {
+    "ID": "23",
+    "Name": "Ghost Rider",
+    "Alignment": "Good",
+    "Gender": "Male",
+    "Hometown": "USA",
+    "Fighting_Skills": "2"
+  },
+  {
+    "ID": "24",
+    "Name": "Venon",
+    "Alignment": "Neutral",
+    "Gender": "Male",
+    "Hometown": "USA",
+    "Fighting_Skills": "4"
+  },
+  {
+    "ID": "25",
+    "Name": "Juggernaut",
+    "Alignment": "Neutral",
+    "Gender": "Male",
+    "Hometown": "USA",
+    "Fighting_Skills": "4"
+  },
+  {
+    "ID": "26",
+    "Name": "Professor X",
+    "Alignment": "Good",
+    "Gender": "Male",
+    "Hometown": "USA",
+    "Fighting_Skills": "3"
+  }
+]
